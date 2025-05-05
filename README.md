@@ -2,7 +2,7 @@
 
 
 📍 Nellore, India 524002    
-✉️ [charith.t1302@gmail.com](mailto:charith.t1302@gmail.com)
+✉️ [charith.t1302@gmail.com](mailto:thirumalasettycharith@gmail.com)
 
 ---
 
@@ -79,10 +79,8 @@ Indian Institute of Information Technology, Sri City, Chittoor
 ---
 
 ## 📫 Get in Touch
-I am actively looking for freelancing opportunities in Azure Cloud Administration and DevOps. Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/charith-thirumalasetty-646123314/).
+I am actively looking for freelancing opportunities in Azure Cloud Administration and DevOps. Feel free to reach out to me via email.
 
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-Charith&show_icons=true&theme=radical)
 
